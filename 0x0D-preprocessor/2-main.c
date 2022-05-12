@@ -2,5 +2,5 @@
 
 int main(void)
 {
-	putchar("%s", _FILE_);
+	putchar("%s", __FILE__);
 }
