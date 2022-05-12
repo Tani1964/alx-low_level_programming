@@ -3,5 +3,5 @@
 
 int main(void)
 {
-	putchar("%s", __FILE__);
+	putchar("%s\n", __FILE__);
 }
